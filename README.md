@@ -1,4 +1,4 @@
-![Banner](./docs/Cover.png)
+![Banner](https://raw.githubusercontent.com/ClaralightDesign/.github/main/docs/Cover.png)
 
 # ClaraLight Design
 
